@@ -29,7 +29,7 @@ def generator():
 	    axel = ''.join(random.choice(chars) for _ in range(size))
 	    laast = 'sk_live_' + axel
 	    return laast
-	f = open('@Mr_Indian_Anon.txt','a')
+	f = open('@git.txt','a')
 	print('\n')
 	for i in range(int(many)):
 	    count += 1
